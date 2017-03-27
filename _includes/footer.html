@@ -1,21 +1,8 @@
-<footer class="site-footer">
-  <div class="wrapper">
-    <p class="copy">&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-  </div>
+<footer class="footer">
+    <p>&copy; {{site.username}}</p>
+    <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://nrandecker.github.io">Nathan Randecker</a></p>
 </footer>
-<amp-analytics type="googleanalytics" id="analytics1">
-<script type="application/json">
-{
-  "vars": {
-    "account": "{{ site:GoogleAnalytics }}"
-  },
-  "triggers": {
-    "trackPageview": {
-      "on": "visible",
-      "request": "pageview"
-    }
-  }
-}
-</script>
-</amp-analytics>
-<amp-install-serviceworker src="{{ site.baseurl | prepend: site.url }}/sw.js" layout="nodisplay"></amp-install-serviceworker>
+<script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+{% include google-analytics.html %}
