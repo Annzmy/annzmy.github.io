@@ -1,30 +1,33 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Emping - Amp theme for jekyll
+An Amphtml theme for your jekyll blog, based on default Jekyll theme. Theme design inspired from the Jekyll [Kactus](https://github.com/nickbalestra/kactus) theme.
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+![screenshoot](https://github.com/rmsubekti/emping/raw/master/Screenshot.png)
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+### Feature
 
-## Preview
+- [x] **Amp Page**
+- [x] **Google Analytics**
+- [x] **Pagination**
+- [x] **404 Error Page**
+- [x] **SEO** Gems: *[jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag), [jekyll-feed](https://github.com/jekyll/jekyll-feed)*
+- [x] **Share Button**
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+### [View Demo](http://rmsubekti.github.io/emping)
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+### Use this theme
+Simply fork this repo, and rename to `your_github_username.github.io`.
 
-## Getting Started
+### Run this theme on your local machine
+To serve this jekyll theme make sure your computer meets the [following requirements](https://jekyllrb.com/docs/installation/#requirements), then run this command.
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+```
+git clone git@github.com:rmsubekti/emping.git
+cd emping
+bundle install
+bundle exec jekyll s
+```
+
+You can change the site configuration in the [_config.yml](https://github.com/rmsubekti/emping/blob/master/_config.yml) file.
+
+License : [MIT](https://github.com/rmsubekti/emping/blob/master/LICENSE.md)
+Feel free to fork, change, modify and re-use it.
