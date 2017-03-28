@@ -8,6 +8,7 @@ $cut: 768px;
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  list-style: none;
 }
 
 @-webkit-keyframes pulse {
@@ -68,20 +69,7 @@ body {
     height:100vh !important;
   }
 }
-#about {
-  background:lightblue;
-  display: block;
-  vertical-align: bottom;
-  width: 100vw;
-  min-height: 100vh;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  .particles-js-canvas-el {
-    width:100vw !important;
-    height:100vh !important;
-  }
-}
+
 .content {
   z-index: 1;
   text-align: center;
