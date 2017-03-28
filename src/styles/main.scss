@@ -116,6 +116,18 @@ body {
   flex-direction:column;
   justify-content: center;
   text-align: center;
+  .links{
+    display:flex;
+    flex-direction:column;
+    color: #FFF;
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 10px;
+    @media only screen and (min-width:$cut){
+      font-size: 20px;
+    }
+  }
   .icon {
     text-align: center;
     color: #FFF;
@@ -140,16 +152,6 @@ body {
       height: 35px;
       font-size: 35px;
     }
-  }
-}
-.links {
-  color: #FFF;
-  justify-content: space-between;
-  text-decoration: none;
-  font-size: 15px;
-  margin: 10px;
-  @media only screen and (min-width: $cut) {
-    font-size: 20px;
   }
 }
 
