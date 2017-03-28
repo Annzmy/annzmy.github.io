@@ -84,8 +84,8 @@ body {
     display: block;
     line-height: 1;
     @media only screen and (min-width:$cut){
-      margin: 0;
-      font-size: 100px;
+      margin: 10px;
+      font-size: 80px;
     }
   }
   .site-description {
