@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a02e7d9-5369-400e-a8f6-cc20205e8ea6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/annzmy.github.io.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/google-analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mountains.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/skate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/sweet-scroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/particle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/me.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/mountains.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/skate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/styles/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="4a02e7d9-5369-400e-a8f6-cc20205e8ea6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -235,7 +205,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40000" />
+    <option name="totallyTimeSpent" value="73000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
