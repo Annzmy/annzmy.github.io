@@ -113,11 +113,11 @@ body {
 
 .icons-header {
   display: flex;
+  flex-direction:column;
   justify-content: center;
   text-align: center;
   a{
     color: #FFF;
-    display:column;
     justify-content: space-between;
     text-decoration: none;
     font-size: 15px;
