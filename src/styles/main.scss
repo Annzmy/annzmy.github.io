@@ -128,7 +128,6 @@ body {
 .icons-header {
   display: flex;
   justify-content:space-between;
-  text-align: center;
   .icon {
     text-align: center;
     color: #FFF;
@@ -157,7 +156,6 @@ body {
 }
 
 .down {
-  z-index: 1;
   color: #FFF;
   position: absolute;
   bottom: 25px;
