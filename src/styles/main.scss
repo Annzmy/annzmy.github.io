@@ -113,9 +113,10 @@ body {
 
 .icons-header {
   display: flex;
-  flex-direction:column;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: space-between;
   text-align: center;
+  align-items: center;
   .icon {
     text-align: center;
     color: #FFF;
