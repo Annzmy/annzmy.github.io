@@ -102,19 +102,19 @@ body {
   .link {
     color: #FFF;
     display: inline-flex;
+    align-items: center;
     text-decoration: none;
     font-size: 15px;
-    align-items: center;
     margin: 5px;
     @media only screen and (min-width:$cut){
       font-size: 20px;
-      align-items: center;
     }
   }
 }
 
 .icons-header {
   display: flex;
+  justify-content: flex-start;
   .icon {
     color: #FFF;
     width: 20px;
