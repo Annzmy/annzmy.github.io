@@ -48,12 +48,7 @@ body {
 }
 #lala{
     background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
-    display:block;
-    vertical-align:bottom;
     min-height:100vh;
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-attachment:fixed
 }
 .content {
     z-index:1;
