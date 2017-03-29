@@ -47,8 +47,7 @@ body {
     height:100vh!important
 }
 .about{
-    background: linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%), radial-gradient(at top left, rgba(255,255,255,0.30) 0%, rgba(0,0,0,0.30) 100%);
-    background-blend-mode: screen;
+    background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
     min-height:100vh;
 }
 .projects{
@@ -57,6 +56,7 @@ body {
 }
 .container{
     color:#fff;
+    font-weight: 400;
 }
 .content {
     z-index:1;
