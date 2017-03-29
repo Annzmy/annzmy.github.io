@@ -2,7 +2,15 @@ $main: #1a222c;
 $sec: #4B5664;
 $purple: #54516A;
 $cut: 768px;
-
+a {
+  color: #FFF;
+  text-decoration: none;
+  font-size: 15px;
+  margin: 5px;
+  @media only screen and (min-width:$cut){
+    font-size: 20px;
+  }
+}
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 body {
@@ -115,15 +123,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  a {
-    color: #FFF;
-    text-decoration: none;
-    font-size: 15px;
-    margin: 5px;
-    @media only screen and (min-width:$cut){
-      font-size: 20px;
-    }
-  }
   .icon {
     color: #FFF;
     width: 20px;
