@@ -109,13 +109,13 @@ body {
     margin: 10px;
     @media only screen and (min-width:$cut){
       font-size: 20px;
+      line-height:60px;
     }
   }
 }
 
 .icons-header {
   display: flex;
-  justify-content: flex-start;
   .icon {
     color: #FFF;
     width: 20px;
