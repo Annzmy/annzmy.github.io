@@ -47,7 +47,11 @@ body {
     height:100vh!important
 }
 .about{
-    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+    background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+    min-height:100vh;
+}
+.projects{
+    background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
     min-height:100vh;
 }
 .content {
@@ -169,7 +173,8 @@ body {
 .user-details {
     text-align:center;
     font-size:16px;
-    margin:10px auto
+    margin:10px auto;
+    padding-top: 20px;
 }
 .user-projects {
     margin:40px auto
