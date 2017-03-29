@@ -47,12 +47,15 @@ body {
     height:100vh!important
 }
 .about{
-    background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
     min-height:100vh;
 }
 .projects{
-    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
     min-height:90vh;
+}
+.container{
+    color:#fff;
 }
 .content {
     z-index:1;
@@ -99,7 +102,7 @@ body {
 .links{
     text-align:center;
     position:absolute;
-    top:95%;
+    top:99%;
     left:50%;
     margin:0 auto;
     -webkit-transform:translate(-50%,-50%);
