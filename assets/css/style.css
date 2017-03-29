@@ -32,7 +32,7 @@ body {
         top:-10px
     }
 }
-#particles-js,#lala {
+#particles-js {
     background:#1a222c;
     display:block;
     vertical-align:bottom;
@@ -45,6 +45,16 @@ body {
 #particles-js .particles-js-canvas-el {
     width:100vw!important;
     height:100vh!important
+}
+#lala{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    display:block;
+    vertical-align:bottom;
+    width:100vw;
+    min-height:100vh;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed
 }
 .content {
     z-index:1;
