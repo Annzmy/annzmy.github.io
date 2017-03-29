@@ -94,6 +94,7 @@ body {
 }
 .icons-header {
     display:flex;
+    justify-content: flex-start;
 }
 .icons-header .icon {
     text-align:center;
