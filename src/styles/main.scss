@@ -117,7 +117,6 @@ body {
   display: flex;
   justify-content:space-between;
   .icon {
-    text-align: center;
     color: #FFF;
     width: 20px;
     height: 20px;
@@ -174,7 +173,10 @@ body {
       }
   }
 }
-
+.lii{
+  text-align: left;
+  font-size: 16px;
+}
 .user {
   text-align: center;
   margin: 20px auto;
