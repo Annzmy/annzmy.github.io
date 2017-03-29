@@ -2,7 +2,9 @@
 body {
     font-family:'Montserrat',sans-serif;
 }
-.bodycolor{background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);}
+.bodycolor{
+    background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+}
 @-webkit-keyframes pulse {
     0%,to {
         -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
