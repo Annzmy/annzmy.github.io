@@ -113,7 +113,7 @@ body {
 }
 /*链接文字*/
 .content .link {
-    color: #FFF;
+    color:#444;
     display:inline-flex;
     align-items: center;
     justify-content:space-between;
@@ -125,7 +125,7 @@ body {
     .content .link {
         font-size:20px
     }
-    .content .link{
+    .clink .link{
         font-size:20px
     }
 }
