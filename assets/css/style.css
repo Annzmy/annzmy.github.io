@@ -124,7 +124,6 @@ body {
         font-size:35px
     }
 }
-.container{min-height:100vh;}
 .down,.icons-header,.user {
     text-align:center
 }
@@ -197,7 +196,7 @@ body {
         float:right
     }
 }
-img{width:395px;height:389px;}
+img{width:395px;height:389px;border:1px solid #4B5664；}
 .project-link {
     display:block;
     width:100px;
