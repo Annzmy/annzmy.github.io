@@ -50,9 +50,7 @@ body {
 #about{
     min-height:100vh;
     color:#444;
-    background-color: #E4E4E1;
-    background-image: radial-gradient(at top center, rgba(255,255,255,0.03) 0%, rgba(0,0,0,0.03) 100%), linear-gradient(to top, rgba(255,255,255,0.1) 0%, rgba(143,152,157,0.60) 100%);
-    background-blend-mode: normal, multiply;
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
 }
 #projects{
     min-height:100vh;
@@ -63,7 +61,7 @@ body {
     text-align:center;
     color:#fff;
     position:absolute;
-    top:50%;
+    top:98%;
     left:50%;
     margin:0 auto;
     -webkit-transform:translate(-50%,-50%);
@@ -125,6 +123,9 @@ body {
 }
 @media only screen and (min-width:768px) {
     .content .link {
+        font-size:20px
+    }
+    .content .link{
         font-size:20px
     }
 }
@@ -203,6 +204,7 @@ body {
 .user-details {
     text-align:center;
     font-size:16px;
+    font-weight: 400;
     padding-top: 20px;
 }
 .user-projects {
