@@ -83,6 +83,7 @@ body {
 }
 /*链接文字*/
 .content .link {
+    color: #FFF;
     display:inline-flex;
     align-items: center;
     justify-content:space-between;
@@ -196,7 +197,7 @@ body {
         float:right
     }
 }
-img{width:395px;height:389px;border:1px solid #4B5664;}
+img{width:395px;height:389px;border:1px solid whitesmoke;}
 .project-link {
     display:block;
     width:100px;
