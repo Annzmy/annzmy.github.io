@@ -63,13 +63,13 @@ body {
     text-align:center;
     color:#fff;
     position:absolute;
-    top:98%;
+    top:50%;
     left:50%;
     margin:0 auto;
     -webkit-transform:translate(-50%,-50%);
     transform:translate(-50%,-50%)
 }
-.clink .link {
+.clink .links {
     color: #FFF;
     display:inline-flex;
     align-items: center;
