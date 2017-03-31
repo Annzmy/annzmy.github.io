@@ -194,7 +194,8 @@ body {
 }
 .user p {
     font-size:16px;
-    line-height:20px;
+    font-weight: 400;
+    line-height:30px;
 }
 @media only screen and (min-width:768px) {
     .user {
@@ -205,10 +206,10 @@ body {
     text-align:center;
     font-size:16px;
     font-weight: 400;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 .user-projects {
-    margin:40px auto
+    margin:40px auto;
 }
 .user-projects img {
     max-width:100%;
