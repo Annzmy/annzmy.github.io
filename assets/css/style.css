@@ -68,12 +68,12 @@ body {
     transform:translate(-50%,-50%)
 }
 .clink .links {
-    color: #FFF;
+    color: #444;
     display:inline-flex;
     align-items: center;
     justify-content:space-between;
     text-decoration:none;
-    font-size:15px;
+    font-size:20px;
     margin:5px 20px;
 }
 /*首页*/
@@ -113,7 +113,7 @@ body {
 }
 /*链接文字*/
 .content .link {
-    color:#444;
+    color:#fff;
     display:inline-flex;
     align-items: center;
     justify-content:space-between;
