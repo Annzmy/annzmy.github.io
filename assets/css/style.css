@@ -61,7 +61,7 @@ body {
     text-align:center;
     color:#fff;
     position:absolute;
-    top:98%;
+    top:90%;
     left:50%;
     margin:0 auto;
     -webkit-transform:translate(-50%,-50%);
@@ -205,7 +205,7 @@ body {
     text-align:center;
     font-size:16px;
     font-weight: 400;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 .user-projects {
     margin:40px auto
