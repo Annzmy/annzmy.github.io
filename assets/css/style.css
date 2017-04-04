@@ -205,8 +205,8 @@ body {
     font-size:1.2rem;
 }
 .user-projects ol {
-    margin-right:5px;
-    font-size:16px;
+    margin:0 5px 5px 0;
+    font-size:14px;
     font-weight: 400;
 }
 @media only screen and (min-width:768px) {
