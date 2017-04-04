@@ -128,7 +128,7 @@ body {
         font-size:35px
     }
 }
-
+/*向下箭头*/
 .down,.icons-header,.user {
     text-align:center
 }
@@ -160,6 +160,7 @@ body {
 .down .icon:active,.down .icon:hover,.footer a:active,.footer a:hover {
     color:#4b5664
 }
+.container{margin:10px;}
 .user {
     margin:20px auto 50px;
     font-size:60px
