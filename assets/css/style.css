@@ -126,35 +126,6 @@ body {
         font-size:35px
     }
 }
-#about{
-    min-height:100vh;
-    color:#444;
-    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
-}
-#projects{
-    min-height:100vh;
-    color:#444;
-    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);}
-.clink{
-    z-index:1;
-    text-align:center;
-    color:#fff;
-    position:absolute;
-    top:90%;
-    left:50%;
-    margin:0 auto;
-    -webkit-transform:translate(-50%,-50%);
-    transform:translate(-50%,-50%)
-}
-.clink .links {
-    color: #444;
-    display:inline-flex;
-    align-items: center;
-    justify-content:space-between;
-    text-decoration:none;
-    font-size:16px;
-    margin:5px 20px;
-}
 @media only screen and (min-width:768px) {
     .clink .link {
         font-size: 20px
