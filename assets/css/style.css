@@ -203,6 +203,7 @@ body {
 .user-projects span {
     color:#1a222c;
     font-size:1.2rem;
+    margin-bottom: 5px;
 }
 .user-projects ol {
     margin-right:5px;
