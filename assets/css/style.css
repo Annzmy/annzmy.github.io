@@ -39,6 +39,7 @@ body {
     vertical-align:bottom;
     width:100vw;
     min-height:100vh;
+    margin-bottom: 20px;
     background-repeat:no-repeat;
     background-size:cover;
     background-attachment:fixed
@@ -160,7 +161,6 @@ body {
 .down .icon:active,.down .icon:hover,.footer a:active,.footer a:hover {
     color:#4b5664
 }
-.container{margin:10px;}
 .user {
     margin:20px auto 50px;
     font-size:60px
@@ -205,7 +205,7 @@ body {
     font-size:1.2rem;
 }
 .user-projects ol {
-    margin:0 5px 5px 0;
+    margin-right:5px;
     font-size:16px;
     font-weight: 400;
 }
